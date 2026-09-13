@@ -16,7 +16,8 @@ allow_origins=[
 "http://127.0.0.1:3000",
 "https://nexora-kamal-97e6.vercel.app",
 "https://nexora-kamal.vercel.app",
-"https://nexora-1c8by8a10-kamal-97e6.vercel.app"
+"https://nexora-1c8by8a10-kamal-97e6.vercel.app",
+"https://nexora-mauve-two.vercel.app"
 ],
 allow_credentials=True,
 allow_methods=["*"],
